@@ -1,0 +1,572 @@
+TAXONOMIC ORDER;CATEGORY;TAXON CONCEPT ID;COMMON NAME;SCIENTIFIC NAME;SUBSPECIES COMMON NAME;SUBSPECIES SCIENTIFIC NAME
+8288;slash;avibase-0036B298;Common/Long-legged Buzzard;Buteo buteo/rufinus        ;                                ;                                  
+31033;form;avibase-008B89FA;Western Yellow Wagtail    ;Motacilla flava            ;Western Yellow Wagtail (lutea/fl;Motacilla flava lutea/flavissima  
+24331;slash;avibase-008C4FA7;Common/Iberian Chiffchaff ;Phylloscopus collybita/iber;                                ;                                  
+6419;species;avibase-00DA9D91;Common Gull               ;Larus canus                ;                                ;                                  
+11808;spuh;avibase-01B04C17;large falcon sp.          ;Falco sp. (large falcon sp.;                                ;                                  
+19578;species;avibase-022798AB;Black-crowned Tchagra     ;Tchagra senegalus          ;                                ;                                  
+19579;issf;avibase-02972D84;Black-crowned Tchagra     ;Tchagra senegalus          ;Black-crowned Tchagra (Hooded)  ;Tchagra senegalus cucullatus      
+1550;domestic;avibase-02F904D5;Red Junglefowl            ;Gallus gallus              ;Red Junglefowl (Domestic type)  ;Gallus gallus (Domestic type)     
+23551;species;avibase-031684BA;Plain Martin              ;Riparia paludicola         ;                                ;                                  
+6661;issf;avibase-04B49AE7;Sandwich Tern             ;Thalasseus sandvicensis    ;Sandwich Tern (Eurasian)        ;Thalasseus sandvicensis sandvicens
+6404;species;avibase-052BFA8A;Mediterranean Gull        ;Ichthyaetus melanocephalus ;                                ;                                  
+6955;species;avibase-058773E4;Bulwer's Petrel           ;Bulweria bulwerii          ;                                ;                                  
+7811;species;avibase-05F11441;Bonelli's Eagle           ;Aquila fasciata            ;                                ;                                  
+2852;species;avibase-06B41945;Black-bellied Sandgrouse  ;Pterocles orientalis       ;                                ;                                  
+6007;species;avibase-06B9BD24;Sanderling                ;Calidris alba              ;                                ;                                  
+8086;species;avibase-06D9A2C8;Black Kite                ;Milvus migrans             ;                                ;                                  
+28979;species;avibase-06DD9D95;Common Redstart           ;Phoenicurus phoenicurus    ;                                ;                                  
+6283;spuh;avibase-070E73F9;jaeger/skua sp.           ;Stercorarius sp.           ;                                ;                                  
+5459;spuh;avibase-0746FB35;moorhen/coot/gallinule sp.;Gallinula/Fulica/Porphyrio ;                                ;                                  
+623;species;avibase-0783A7EA;Ring-necked Duck          ;Aythya collaris            ;                                ;                                  
+29167;species;avibase-078BC0ED;Desert Wheatear           ;Oenanthe deserti           ;                                ;                                  
+508;domestic;avibase-07FFC1E5;Mallard                   ;Anas platyrhynchos         ;Mallard (Domestic type)         ;Anas platyrhynchos (Domestic type)
+29248;spuh;avibase-07FFFF1F;wheatear sp.              ;Oenanthe sp.               ;                                ;                                  
+6125;species;avibase-0895DD84;Spotted Redshank          ;Tringa erythropus          ;                                ;                                  
+604;spuh;avibase-093E93E1;teal sp.                  ;Anatidae sp. (teal sp.)    ;                                ;                                  
+1889;issf;avibase-09790D38;Common Wood-Pigeon        ;Columba palumbus           ;Common Wood-Pigeon (White-necked;Columba palumbus [palumbus Group] 
+31216;species;avibase-0A3FA185;Water Pipit               ;Anthus spinoletta          ;                                ;                                  
+26683;issf;avibase-0B7E7861;Eurasian Wren             ;Troglodytes troglodytes    ;Eurasian Wren (Eurasian)        ;Troglodytes troglodytes [troglodyt
+24269;species;avibase-0C120038;Yellow-browed Warbler     ;Phylloscopus inornatus     ;                                ;                                  
+2033;species;avibase-0C1EFC9B;Eurasian Collared-Dove    ;Streptopelia decaocto      ;                                ;                                  
+11811;spuh;avibase-0C24147B;diurnal raptor sp.        ;Accipitriformes/Falconiform;                                ;                                  
+6471;issf;avibase-0CFFDCF7;Lesser Black-backed Gull  ;Larus fuscus               ;Lesser Black-backed Gull (interm;Larus fuscus intermedius          
+7300;issf;avibase-0DB2F2AE;Gray Heron                ;Ardea cinerea              ;Gray Heron (Gray)               ;Ardea cinerea cinerea/jouyi       
+21130;spuh;avibase-0E2764BF;raven sp.                 ;Corvus sp. (raven sp.)     ;                                ;                                  
+29041;species;avibase-0EA8F8B9;European Stonechat        ;Saxicola rubicola          ;                                ;                                  
+7250;species;avibase-0F42F11A;Great Bittern             ;Botaurus stellaris         ;                                ;                                  
+1771;species;avibase-0F9B5174;Greater Flamingo          ;Phoenicopterus roseus      ;                                ;                                  
+916;species;avibase-1044B438;Helmeted Guineafowl       ;Numida meleagris           ;                                ;                                  
+6600;species;avibase-115AF02D;Black Tern                ;Chlidonias niger           ;                                ;                                  
+564;issf;avibase-115F04DD;Green-winged Teal         ;Anas crecca                ;Green-winged Teal (Eurasian)    ;Anas crecca crecca                
+12477;species;avibase-11783075;Monk Parakeet             ;Myiopsitta monachus        ;                                ;                                  
+24327;species;avibase-12EE678E;Iberian Chiffchaff        ;Phylloscopus ibericus      ;                                ;                                  
+7565;species;avibase-1327AC55;Osprey                    ;Pandion haliaetus          ;                                ;                                  
+31835;species;avibase-135564AA;Red Crossbill             ;Loxia curvirostra          ;                                ;                                  
+6002;species;avibase-143A681C;Curlew Sandpiper          ;Calidris ferruginea        ;                                ;                                  
+31198;species;avibase-14873249;Meadow Pipit              ;Anthus pratensis           ;                                ;                                  
+24810;species;avibase-14AFBA82;Greater Whitethroat       ;Curruca communis           ;                                ;                                  
+6010;species;avibase-15369E8E;Dunlin                    ;Calidris alpina            ;                                ;                                  
+6036;species;avibase-153BA306;White-rumped Sandpiper    ;Calidris fuscicollis       ;                                ;                                  
+7662;species;avibase-158BDC90;Cinereous Vulture         ;Aegypius monachus          ;                                ;                                  
+6135;species;avibase-15CF9352;Marsh Sandpiper           ;Tringa stagnatilis         ;                                ;                                  
+475;species;avibase-15EE0D36;Eurasian Wigeon           ;Mareca penelope            ;                                ;                                  
+21450;species;avibase-166CD440;Coal Tit                  ;Periparus ater             ;                                ;                                  
+6986;species;avibase-1725B07D;Sooty Shearwater          ;Ardenna grisea             ;                                ;                                  
+6563;species;avibase-17310BF0;Little Tern               ;Sternula albifrons         ;                                ;                                  
+6112;species;avibase-18A19380;Red Phalarope             ;Phalaropus fulicarius      ;                                ;                                  
+6127;species;avibase-18B415D2;Common Greenshank         ;Tringa nebularia           ;                                ;                                  
+20994;species;avibase-18D2C42A;Red-billed Chough         ;Pyrrhocorax pyrrhocorax    ;                                ;                                  
+6996;slash;avibase-192A4260;Yelkouan/Balearic Shearwat;Puffinus yelkouan/mauretani;                                ;                                  
+12220;domestic;avibase-19F22D00;Budgerigar                ;Melopsittacus undulatus    ;Budgerigar (Domestic type)      ;Melopsittacus undulatus (Domestic 
+6056;species;avibase-1A15F0C6;Jack Snipe                ;Lymnocryptes minimus       ;                                ;                                  
+31889;species;avibase-1B235E00;European Goldfinch        ;Carduelis carduelis        ;                                ;                                  
+569;slash;avibase-1BEB6E56;Garganey/Green-winged Teal;Spatula querquedula/Anas cr;                                ;                                  
+29221;species;avibase-1C98EA2F;Black Wheatear            ;Oenanthe leucura           ;                                ;                                  
+6277;species;avibase-1D446440;Long-tailed Jaeger        ;Stercorarius longicaudus   ;                                ;                                  
+394;species;avibase-1F9D883E;Ruddy Shelduck            ;Tadorna ferruginea         ;                                ;                                  
+416;domestic;avibase-1FE65763;Muscovy Duck              ;Cairina moschata           ;Muscovy Duck (Domestic type)    ;Cairina moschata (Domestic type)  
+21864;species;avibase-20A0844D;Bar-tailed Lark           ;Ammomanes cinctura         ;                                ;                                  
+5872;species;avibase-20BE9DF1;Eurasian Dotterel         ;Charadrius morinellus      ;                                ;                                  
+22311;spuh;avibase-20C23C74;lark sp.                  ;Alaudidae sp.              ;                                ;                                  
+5741;species;avibase-2143A852;American Golden-Plover    ;Pluvialis dominica         ;                                ;                                  
+22303;issf;avibase-2159D3B2;Crested Lark              ;Galerida cristata          ;Crested Lark (Maghreb)          ;Galerida cristata macrorhyncha/ran
+1786;species;avibase-215FEA89;Little Grebe              ;Tachybaptus ruficollis     ;                                ;                                  
+22266;species;avibase-21ADC3ED;Crested Lark              ;Galerida cristata          ;                                ;                                  
+2;species;avibase-2247CB05;Common Ostrich            ;Struthio camelus           ;                                ;                                  
+7875;species;avibase-22647E26;Pallid Harrier            ;Circus macrourus           ;                                ;                                  
+21008;slash;avibase-22BED723;Red-billed/Yellow-billed C;Pyrrhocorax pyrrhocorax/gra;                                ;                                  
+31040;form;avibase-22DF91D0;Western Yellow Wagtail    ;Motacilla flava            ;Western Yellow Wagtail (iberiae/;Motacilla flava [cinereocapilla Gr
+5975;spuh;avibase-2326328A;godwit sp.                ;Limosa sp.                 ;                                ;                                  
+23152;issf;avibase-2346D69F;Common Reed Warbler       ;Acrocephalus scirpaceus    ;Common Reed Warbler (Common)    ;Acrocephalus scirpaceus scirpaceus
+30886;species;avibase-240E3390;House Sparrow             ;Passer domesticus          ;                                ;                                  
+31311;issf;avibase-242F37E2;Common Chaffinch          ;Fringilla coelebs          ;Common Chaffinch (African)      ;Fringilla coelebs africana        
+683;species;avibase-24698199;Common Scoter             ;Melanitta nigra            ;                                ;                                  
+31076;issf;avibase-24956ECB;White Wagtail             ;Motacilla alba             ;White Wagtail (Moroccan)        ;Motacilla alba subpersonata       
+9548;issf;avibase-24FC3C2A;Common Kingfisher         ;Alcedo atthis              ;Common Kingfisher (Common)      ;Alcedo atthis [atthis Group]      
+31160;species;avibase-250CDA58;Tawny Pipit               ;Anthus campestris          ;                                ;                                  
+5738;species;avibase-25A20BA6;European Golden-Plover    ;Pluvialis apricaria        ;                                ;                                  
+31206;species;avibase-25F7AF65;Olive-backed Pipit        ;Anthus hodgsoni            ;                                ;                                  
+2037;species;avibase-273A4A2F;African Collared-Dove     ;Streptopelia roseogrisea   ;                                ;                                  
+5737;species;avibase-27903EF7;Black-bellied Plover      ;Pluvialis squatarola       ;                                ;                                  
+6367;species;avibase-27CE7132;Slender-billed Gull       ;Chroicocephalus genei      ;                                ;                                  
+7061;species;avibase-28825494;White Stork               ;Ciconia ciconia            ;                                ;                                  
+8655;issf;avibase-2A6A96E6;Pharaoh Eagle-Owl         ;Bubo ascalaphus            ;Pharaoh Eagle-Owl (Desert)      ;Bubo ascalaphus desertorum        
+8466;species;avibase-2C7AA154;Eurasian Scops-Owl        ;Otus scops                 ;                                ;                                  
+23274;species;avibase-2D46BB98;Savi's Warbler            ;Locustella luscinioides    ;                                ;                                  
+6827;issf;avibase-2D48172F;European Storm-Petrel     ;Hydrobates pelagicus       ;European Storm-Petrel (British) ;Hydrobates pelagicus pelagicus    
+6469;species;avibase-2D52E3A5;Lesser Black-backed Gull  ;Larus fuscus               ;                                ;                                  
+22217;issf;avibase-2D9A3619;Eurasian Skylark          ;Alauda arvensis            ;Eurasian Skylark (European)     ;Alauda arvensis [arvensis Group]  
+11663;species;avibase-2DAB45B8;Eurasian Kestrel          ;Falco tinnunculus          ;                                ;                                  
+5996;species;avibase-2DABF98F;Ruff                      ;Calidris pugnax            ;                                ;                                  
+729;species;avibase-2E40EF2C;White-headed Duck         ;Oxyura leucocephala        ;                                ;                                  
+2040;domestic;avibase-2F2A913A;African Collared-Dove     ;Streptopelia roseogrisea   ;African Collared-Dove (Domestic ;Streptopelia roseogrisea (Domestic
+3641;species;avibase-2F7F0244;Egyptian Nightjar         ;Caprimulgus aegyptius      ;                                ;                                  
+23730;issf;avibase-30FEC6BE;Common House-Martin       ;Delichon urbicum           ;Common House-Martin (Western)   ;Delichon urbicum urbicum/meridiona
+9006;spuh;avibase-31273EB0;Asio sp.                  ;Asio sp.                   ;                                ;                                  
+299;species;avibase-3163ED86;Barnacle Goose            ;Branta leucopsis           ;                                ;                                  
+31215;species;avibase-319D044A;Red-throated Pipit        ;Anthus cervinus            ;                                ;                                  
+31809;species;avibase-32635892;Eurasian Linnet           ;Linaria cannabina          ;                                ;                                  
+1834;species;avibase-32DCEC14;Eared Grebe               ;Podiceps nigricollis       ;                                ;                                  
+4048;species;avibase-332BC664;Pallid Swift              ;Apus pallidus              ;                                ;                                  
+8097;slash;avibase-3335DE79;Red/Black Kite            ;Milvus milvus/migrans      ;                                ;                                  
+31911;domestic;avibase-3339F0DB;Island Canary             ;Serinus canaria            ;Island Canary (Domestic type)   ;Serinus canaria (Domestic type)   
+7316;species;avibase-3395DCF1;Purple Heron              ;Ardea purpurea             ;                                ;                                  
+28980;issf;avibase-3488A4C8;Common Redstart           ;Phoenicurus phoenicurus    ;Common Redstart (Common)        ;Phoenicurus phoenicurus phoenicuru
+5517;species;avibase-34D5B04D;Baillon's Crake           ;Zapornia pusilla           ;                                ;                                  
+31034;issf;avibase-34DA7F52;Western Yellow Wagtail    ;Motacilla flava            ;Western Yellow Wagtail (flavissi;Motacilla flava flavissima        
+23156;issf;avibase-34E27C2A;Common Reed Warbler       ;Acrocephalus scirpaceus    ;Common Reed Warbler (African)   ;Acrocephalus scirpaceus [baeticatu
+31996;species;avibase-3534E4CE;Lapland Longspur          ;Calcarius lapponicus       ;                                ;                                  
+11792;issf;avibase-35E420F3;Peregrine Falcon          ;Falco peregrinus           ;Peregrine Falcon (Mediterranean);Falco peregrinus brookei          
+5848;species;avibase-35EC3BBF;Little Ringed Plover      ;Charadrius dubius          ;                                ;                                  
+31202;species;avibase-365F5E97;Tree Pipit                ;Anthus trivialis           ;                                ;                                  
+23658;issf;avibase-3690F067;Red-rumped Swallow        ;Cecropis daurica           ;Red-rumped Swallow (Red-rumped) ;Cecropis daurica [daurica Group]  
+31293;species;avibase-37F52281;Common Chaffinch          ;Fringilla coelebs          ;                                ;                                  
+6275;species;avibase-39086887;Parasitic Jaeger          ;Stercorarius parasiticus   ;                                ;                                  
+29156;species;avibase-3983013B;Atlas Wheatear            ;Oenanthe seebohmi          ;                                ;                                  
+21760;spuh;avibase-399FA405;Parid sp.                 ;Paridae sp.                ;                                ;                                  
+31489;species;avibase-3A713345;Common Rosefinch          ;Carpodacus erythrinus      ;                                ;                                  
+5946;species;avibase-3BB5CBA6;Eurasian Curlew           ;Numenius arquata           ;                                ;                                  
+8262;species;avibase-3C0C325D;Common Buzzard            ;Buteo buteo                ;                                ;                                  
+26318;species;avibase-3C468678;Eurasian Nuthatch         ;Sitta europaea             ;                                ;                                  
+5689;species;avibase-3CAEB7CE;Black-winged Stilt        ;Himantopus himantopus      ;                                ;                                  
+3173;species;avibase-3D67C56A;Great Spotted Cuckoo      ;Clamator glandarius        ;                                ;                                  
+7159;species;avibase-3DF5C587;Great Cormorant           ;Phalacrocorax carbo        ;                                ;                                  
+291;species;avibase-3E04020B;Brant                     ;Branta bernicla            ;                                ;                                  
+21813;species;avibase-3E4513D9;Greater Hoopoe-Lark       ;Alaemon alaudipes          ;                                ;                                  
+7680;slash;avibase-3E6F0EC8;Rüppell's/Eurasian Griffo;Gyps rueppelli/fulvus      ;                                ;                                  
+610;species;avibase-3EC2CDA9;Red-crested Pochard       ;Netta rufina               ;                                ;                                  
+26067;species;avibase-3EFD8DF0;Fulvous Chatterer         ;Argya fulva                ;                                ;                                  
+23151;species;avibase-3F0EE474;Common Reed Warbler       ;Acrocephalus scirpaceus    ;                                ;                                  
+20959;species;avibase-3FA7E460;Maghreb Magpie            ;Pica mauritanica           ;                                ;                                  
+24803;species;avibase-3FC15B06;Moltoni's Warbler         ;Curruca subalpina          ;                                ;                                  
+31070;species;avibase-400E032C;White Wagtail             ;Motacilla alba             ;                                ;                                  
+22132;species;avibase-4091A51E;Greater Short-toed Lark   ;Calandrella brachydactyla  ;                                ;                                  
+8654;issf;avibase-411003DB;Pharaoh Eagle-Owl         ;Bubo ascalaphus            ;Pharaoh Eagle-Owl (Pharaoh)     ;Bubo ascalaphus ascalaphus        
+5849;issf;avibase-41141E35;Little Ringed Plover      ;Charadrius dubius          ;Little Ringed Plover (curonicus);Charadrius dubius curonicus       
+29021;species;avibase-41D76F4B;Blue Rock-Thrush          ;Monticola solitarius       ;                                ;                                  
+31097;species;avibase-41ECD10E;Richard's Pipit           ;Anthus richardi            ;                                ;                                  
+8062;species;avibase-420850D6;Northern Goshawk          ;Accipiter gentilis         ;                                ;                                  
+11346;species;avibase-42CF31E9;Levaillant's Woodpecker   ;Picus vaillantii           ;                                ;                                  
+7879;slash;avibase-42F04AA6;Hen/Montagu's Harrier     ;Circus cyaneus/pygargus    ;                                ;                                  
+6995;species;avibase-42F573C7;Balearic Shearwater       ;Puffinus mauretanicus      ;                                ;                                  
+30909;slash;avibase-43C297EE;House/Spanish Sparrow     ;Passer domesticus/hispaniol;                                ;                                  
+6603;species;avibase-43CAAEE3;White-winged Tern         ;Chlidonias leucopterus     ;                                ;                                  
+6590;species;avibase-441918B5;Gull-billed Tern          ;Gelochelidon nilotica      ;                                ;                                  
+8083;species;avibase-451D6FC8;Red Kite                  ;Milvus milvus              ;                                ;                                  
+5962;species;avibase-454B5CD5;Black-tailed Godwit       ;Limosa limosa              ;                                ;                                  
+24318;issf;avibase-458C8CBE;Common Chiffchaff         ;Phylloscopus collybita     ;Common Chiffchaff (Common)      ;Phylloscopus collybita [collybita 
+21004;species;avibase-45B512E2;Yellow-billed Chough      ;Pyrrhocorax graculus       ;                                ;                                  
+5373;species;avibase-460708F9;Spotted Crake             ;Porzana porzana            ;                                ;                                  
+2841;issf;avibase-4665BDD9;Pin-tailed Sandgrouse     ;Pterocles alchata          ;Pin-tailed Sandgrouse (Pin-taile;Pterocles alchata caudacutus      
+7341;issf;avibase-4713982B;Little Egret              ;Egretta garzetta           ;Little Egret (Western)          ;Egretta garzetta garzetta         
+32076;species;avibase-47210561;Ortolan Bunting           ;Emberiza hortulana         ;                                ;                                  
+12866;spuh;avibase-47B16A4A;parrot sp.                ;Psittaciformes sp. (parrot ;                                ;                                  
+23588;species;avibase-47DA0258;Rock Martin               ;Ptyonoprogne fuligula      ;                                ;                                  
+11781;species;avibase-47E58408;Peregrine Falcon          ;Falco peregrinus           ;                                ;                                  
+31838;issf;avibase-47EE8750;Red Crossbill             ;Loxia curvirostra          ;Red Crossbill (North African)   ;Loxia curvirostra poliogyna       
+32040;species;avibase-4836E64E;Rock Bunting              ;Emberiza cia               ;                                ;                                  
+2839;species;avibase-493C4CF8;Pin-tailed Sandgrouse     ;Pterocles alchata          ;                                ;                                  
+7323;species;avibase-49D9148A;Great Egret               ;Ardea alba                 ;                                ;                                  
+2883;spuh;avibase-4A24F0A2;sandgrouse sp.            ;Pterocles sp.              ;                                ;                                  
+259;species;avibase-4AED44E8;Graylag Goose             ;Anser anser                ;                                ;                                  
+6304;spuh;avibase-4B2856FB;large alcid sp.           ;Uria/Alca sp.              ;                                ;                                  
+7784;species;avibase-4B8CC285;Booted Eagle              ;Hieraaetus pennatus        ;                                ;                                  
+29022;issf;avibase-4C59ECEC;Blue Rock-Thrush          ;Monticola solitarius       ;Blue Rock-Thrush (solitarius/lon;Monticola solitarius solitarius/lo
+6623;species;avibase-4D2FF6F1;Common Tern               ;Sterna hirundo             ;                                ;                                  
+4041;species;avibase-4E6EF3F9;Common Swift              ;Apus apus                  ;                                ;                                  
+2900;issf;avibase-4FBB0067;Houbara Bustard           ;Chlamydotis undulata       ;Houbara Bustard (North African) ;Chlamydotis undulata undulata     
+7185;issf;avibase-5007A5DA;European Shag             ;Gulosus aristotelis        ;European Shag (Moroccan)        ;Gulosus aristotelis riggenbachi   
+22158;species;avibase-504B0218;Dupont's Lark             ;Chersophilus duponti       ;                                ;                                  
+649;species;avibase-50566E50;Lesser Scaup              ;Aythya affinis             ;                                ;                                  
+21460;issf;avibase-506B3C0C;Coal Tit                  ;Periparus ater             ;Coal Tit (Atlas)                ;Periparus ater ledouci/atlas      
+31041;issf;avibase-52BA5813;Western Yellow Wagtail    ;Motacilla flava            ;Western Yellow Wagtail (iberiae);Motacilla flava iberiae           
+5412;species;avibase-53235FDC;Red-knobbed Coot          ;Fulica cristata            ;                                ;                                  
+1871;domestic;avibase-533DD36C;Rock Pigeon               ;Columba livia              ;Rock Pigeon (Feral Pigeon)      ;Columba livia (Feral Pigeon)      
+7125;species;avibase-534FB490;Northern Gannet           ;Morus bassanus             ;                                ;                                  
+22253;species;avibase-5351025C;Thekla's Lark             ;Galerida theklae           ;                                ;                                  
+20995;issf;avibase-53EEC388;Red-billed Chough         ;Pyrrhocorax pyrrhocorax    ;Red-billed Chough (Red-billed)  ;Pyrrhocorax pyrrhocorax [pyrrhocor
+26459;species;avibase-552E2BA9;Short-toed Treecreeper    ;Certhia brachydactyla      ;                                ;                                  
+23771;spuh;avibase-55CCEE2D;swallow sp.               ;Hirundinidae sp.           ;                                ;                                  
+31217;issf;avibase-56C9EDEE;Water Pipit               ;Anthus spinoletta          ;Water Pipit (Western)           ;Anthus spinoletta spinoletta      
+548;species;avibase-56CCA717;Northern Pintail          ;Anas acuta                 ;                                ;                                  
+2898;species;avibase-5714C710;Houbara Bustard           ;Chlamydotis undulata       ;                                ;                                  
+24258;species;avibase-572C4C7F;Wood Warbler              ;Phylloscopus sibilatrix    ;                                ;                                  
+2017;species;avibase-5788552B;European Turtle-Dove      ;Streptopelia turtur        ;                                ;                                  
+11678;slash;avibase-578C6971;Lesser/Eurasian Kestrel   ;Falco naumanni/tinnunculus ;                                ;                                  
+6400;species;avibase-57C93A74;Franklin's Gull           ;Leucophaeus pipixcan       ;                                ;                                  
+6864;spuh;avibase-586F2343;storm-petrel sp.          ;Oceanitidae/Hydrobatidae sp;                                ;                                  
+6276;slash;avibase-58A533AB;Pomarine/Parasitic Jaeger ;Stercorarius pomarinus/para;                                ;                                  
+23610;species;avibase-58C502EA;Barn Swallow              ;Hirundo rustica            ;                                ;                                  
+31890;issf;avibase-59353A05;European Goldfinch        ;Carduelis carduelis        ;European Goldfinch (European)   ;Carduelis carduelis [carduelis Gro
+31032;species;avibase-5983D677;Western Yellow Wagtail    ;Motacilla flava            ;                                ;                                  
+6145;spuh;avibase-59C39D59;Tringa sp.                ;Tringa sp.                 ;                                ;                                  
+30904;species;avibase-5A8E09A1;Spanish Sparrow           ;Passer hispaniolensis      ;                                ;                                  
+6003;species;avibase-5ACF7FB3;Temminck's Stint          ;Calidris temminckii        ;                                ;                                  
+6993;species;avibase-5AEDC002;Manx Shearwater           ;Puffinus puffinus          ;                                ;                                  
+31057;species;avibase-5B0295C1;Citrine Wagtail           ;Motacilla citreola         ;                                ;                                  
+2064;spuh;avibase-5C7D1CC1;Streptopelia sp.          ;Streptopelia sp.           ;                                ;                                  
+7677;species;avibase-5D1987CE;Eurasian Griffon          ;Gyps fulvus                ;                                ;                                  
+928;domestic;avibase-5E6847C8;Helmeted Guineafowl       ;Numida meleagris           ;Helmeted Guineafowl (Domestic ty;Numida meleagris (Domestic type)  
+20650;issf;avibase-5E7D2196;Woodchat Shrike           ;Lanius senator             ;Woodchat Shrike (Western)       ;Lanius senator senator            
+20651;issf;avibase-5E9F5905;Woodchat Shrike           ;Lanius senator             ;Woodchat Shrike (Balearic)      ;Lanius senator badius             
+399;species;avibase-5EAB32D3;Common Shelduck           ;Tadorna tadorna            ;                                ;                                  
+7112;species;avibase-5EC21767;Brown Booby               ;Sula leucogaster           ;                                ;                                  
+7015;species;avibase-5F555FDD;Barolo Shearwater         ;Puffinus baroli            ;                                ;                                  
+7799;species;avibase-5F8E7CA8;Golden Eagle              ;Aquila chrysaetos          ;                                ;                                  
+7347;hybrid;avibase-5FB8BF9B;Little Egret x Western Ree;Egretta garzetta x gularis ;                                ;                                  
+7163;issf;avibase-601D456D;Great Cormorant           ;Phalacrocorax carbo        ;Great Cormorant (Eurasian)      ;Phalacrocorax carbo sinensis/haned
+28768;issf;avibase-6068DA65;Common Nightingale        ;Luscinia megarhynchos      ;Common Nightingale (megarhynchos;Luscinia megarhynchos megarhynchos
+24506;spuh;avibase-60A9B5E3;Phylloscopus sp.          ;Phylloscopus sp.           ;                                ;                                  
+28987;species;avibase-612B5C24;Black Redstart            ;Phoenicurus ochruros       ;                                ;                                  
+29243;issf;avibase-6132EF55;Mourning Wheatear         ;Oenanthe lugens            ;Mourning Wheatear (Maghreb)     ;Oenanthe lugens halophila         
+24716;species;avibase-61F9065B;Eurasian Blackcap         ;Sylvia atricapilla         ;                                ;                                  
+24804;species;avibase-62A53820;Western Subalpine Warbler ;Curruca iberiae            ;                                ;                                  
+607;species;avibase-6362936E;Marbled Teal              ;Marmaronetta angustirostris;                                ;                                  
+31294;issf;avibase-6364E4A5;Common Chaffinch          ;Fringilla coelebs          ;Common Chaffinch (Common)       ;Fringilla coelebs [coelebs Group] 
+7878;species;avibase-63B6412E;Montagu's Harrier         ;Circus pygargus            ;                                ;                                  
+7299;species;avibase-6429024D;Gray Heron                ;Ardea cinerea              ;                                ;                                  
+23605;slash;avibase-64AE6BD1;Eurasian Crag-Martin/Rock ;Ptyonoprogne rupestris/fuli;                                ;                                  
+6301;species;avibase-64F4DD81;Razorbill                 ;Alca torda                 ;                                ;                                  
+31674;species;avibase-65BD2033;European Greenfinch       ;Chloris chloris            ;                                ;                                  
+10022;species;avibase-66AA3934;European Bee-eater        ;Merops apiaster            ;                                ;                                  
+28934;slash;avibase-66F7EC4B;European Pied/Atlas Flycat;Ficedula hypoleuca/speculig;                                ;                                  
+467;hybrid;avibase-6712E378;Cinnamon Teal x Northern S;Spatula cyanoptera x clypea;                                ;                                  
+7431;issf;avibase-67930127;Black-crowned Night-Heron ;Nycticorax nycticorax      ;Black-crowned Night-Heron (Euras;Nycticorax nycticorax nycticorax  
+636;species;avibase-67CEA1C1;Tufted Duck               ;Aythya fuligula            ;                                ;                                  
+30970;spuh;avibase-67EAC02D;Passer sp.                ;Passer sp.                 ;                                ;                                  
+262;domestic;avibase-6835DC6C;Graylag Goose             ;Anser anser                ;Graylag Goose (Domestic type)   ;Anser anser (Domestic type)       
+1854;spuh;avibase-6875C69E;grebe sp.                 ;Podicipedidae sp.          ;                                ;                                  
+1883;species;avibase-68E4C0D1;Stock Dove                ;Columba oenas              ;                                ;                                  
+28161;spuh;avibase-690E6849;Turdus sp.                ;Turdus sp.                 ;                                ;                                  
+7796;species;avibase-69742EE4;Spanish Eagle             ;Aquila adalberti           ;                                ;                                  
+6047;spuh;avibase-69A488E1;peep sp.                  ;Calidris sp. (peep sp.)    ;                                ;                                  
+8337;issf;avibase-6A663608;Barn Owl                  ;Tyto alba                  ;Barn Owl (Eurasian)             ;Tyto alba [alba Group]            
+24002;species;avibase-6ABDB635;Common Bulbul             ;Pycnonotus barbatus        ;                                ;                                  
+12019;species;avibase-6B1CFC3C;Rose-ringed Parakeet      ;Psittacula krameri         ;                                ;                                  
+7430;species;avibase-6BB94D7E;Black-crowned Night-Heron ;Nycticorax nycticorax      ;                                ;                                  
+3618;species;avibase-6CC3D04B;Red-necked Nightjar       ;Caprimulgus ruficollis     ;                                ;                                  
+7370;species;avibase-6CCDAC53;Cattle Egret              ;Bubulcus ibis              ;                                ;                                  
+6481;slash;avibase-6CD15411;Yellow-legged/Lesser Black;Larus michahellis/fuscus   ;                                ;                                  
+7596;species;avibase-6D3480A6;Egyptian Vulture          ;Neophron percnopterus      ;                                ;                                  
+6406;slash;avibase-6DF0FB56;Black-headed/Mediterranean;Chroicocephalus ridibundus/;                                ;                                  
+28928;species;avibase-6E352E18;European Pied Flycatcher  ;Ficedula hypoleuca         ;                                ;                                  
+10013;species;avibase-6EE45113;Blue-cheeked Bee-eater    ;Merops persicus            ;                                ;                                  
+23587;species;avibase-6F2AF9D0;Eurasian Crag-Martin      ;Ptyonoprogne rupestris     ;                                ;                                  
+7345;issf;avibase-70F43997;Western Reef-Heron        ;Egretta gularis            ;Western Reef-Heron (Western)    ;Egretta gularis gularis           
+6975;issf;avibase-710BB4E6;Cory's Shearwater         ;Calonectris diomedea       ;Cory's Shearwater (borealis)    ;Calonectris diomedea borealis     
+1787;issf;avibase-71682A47;Little Grebe              ;Tachybaptus ruficollis     ;Little Grebe (Little)           ;Tachybaptus ruficollis [ruficollis
+28788;issf;avibase-725ABE7D;Bluethroat                ;Luscinia svecica           ;Bluethroat (White-spotted)      ;Luscinia svecica cyanecula/namnetu
+21673;issf;avibase-7296BC77;Great Tit                 ;Parus major                ;Great Tit (Great)               ;Parus major [major Group]         
+29020;species;avibase-736D38E7;Rufous-tailed Rock-Thrush ;Monticola saxatilis        ;                                ;                                  
+22192;species;avibase-742EC2F1;Wood Lark                 ;Lullula arborea            ;                                ;                                  
+10032;species;avibase-7451A628;European Roller           ;Coracias garrulus          ;                                ;                                  
+1888;species;avibase-760F307A;Common Wood-Pigeon        ;Columba palumbus           ;                                ;                                  
+7672;species;avibase-76B512B1;Rüppell's Griffon        ;Gyps rueppelli             ;                                ;                                  
+5934;issf;avibase-76E322E3;Whimbrel                  ;Numenius phaeopus          ;Whimbrel (European)             ;Numenius phaeopus phaeopus        
+5413;slash;avibase-78C28152;Eurasian/Red-knobbed Coot ;Fulica atra/cristata       ;                                ;                                  
+28978;species;avibase-7A8D10C0;Moussier's Redstart       ;Phoenicurus moussieri      ;                                ;                                  
+7256;species;avibase-7AAD57AC;Little Bittern            ;Ixobrychus minutus         ;                                ;                                  
+6604;species;avibase-7AB4E42B;Whiskered Tern            ;Chlidonias hybrida         ;                                ;                                  
+28767;species;avibase-7C7F0DEE;Common Nightingale        ;Luscinia megarhynchos      ;                                ;                                  
+6274;species;avibase-7CB8F5B7;Pomarine Jaeger           ;Stercorarius pomarinus     ;                                ;                                  
+627;species;avibase-7CF91527;Ferruginous Duck          ;Aythya nyroca              ;                                ;                                  
+24518;issf;avibase-7DA50B64;Scrub Warbler             ;Scotocerca inquieta        ;Scrub Warbler (Western)         ;Scotocerca inquieta saharae/theres
+6720;species;avibase-7E022378;Common Loon               ;Gavia immer                ;                                ;                                  
+20649;species;avibase-7E70D490;Woodchat Shrike           ;Lanius senator             ;                                ;                                  
+7815;spuh;avibase-7E9CC505;Aquila sp.                ;Aquila sp.                 ;                                ;                                  
+6264;spuh;avibase-7FC8B7ED;shorebird sp.             ;Charadriiformes sp.        ;                                ;                                  
+6632;slash;avibase-803C64E9;Common/Arctic Tern        ;Sterna hirundo/paradisaea  ;                                ;                                  
+31606;species;avibase-8049F707;Trumpeter Finch           ;Bucanetes githagineus      ;                                ;                                  
+31071;issf;avibase-80A3185D;White Wagtail             ;Motacilla alba             ;White Wagtail (White-faced)     ;Motacilla alba alba/dukhunensis   
+3629;species;avibase-80D4B0FE;Eurasian Nightjar         ;Caprimulgus europaeus      ;                                ;                                  
+7593;species;avibase-81DB7410;Bearded Vulture           ;Gypaetus barbatus          ;                                ;                                  
+7721;species;avibase-8372FFBA;Short-toed Snake-Eagle    ;Circaetus gallicus         ;                                ;                                  
+9001;species;avibase-83E21A84;Marsh Owl                 ;Asio capensis              ;                                ;                                  
+5964;issf;avibase-840E4B9F;Black-tailed Godwit       ;Limosa limosa              ;Black-tailed Godwit (limosa)    ;Limosa limosa limosa              
+8300;spuh;avibase-84E0CEF2;hawk sp.                  ;Accipitridae sp. (hawk sp.);                                ;                                  
+31434;species;avibase-84E1F114;Hawfinch                  ;Coccothraustes coccothraust;                                ;                                  
+6440;species;avibase-8535345B;Herring Gull              ;Larus argentatus           ;                                ;                                  
+6115;species;avibase-8548B07E;Common Sandpiper          ;Actitis hypoleucos         ;                                ;                                  
+505;species;avibase-85625D75;Mallard                   ;Anas platyrhynchos         ;                                ;                                  
+24819;species;avibase-85629EF4;Dartford Warbler          ;Curruca undata             ;                                ;                                  
+26301;species;avibase-85B03849;Common Firecrest          ;Regulus ignicapilla        ;                                ;                                  
+6361;species;avibase-86182656;Sabine's Gull             ;Xema sabini                ;                                ;                                  
+23127;species;avibase-869C978C;Icterine Warbler          ;Hippolais icterina         ;                                ;                                  
+7257;issf;avibase-86E6EEB4;Little Bittern            ;Ixobrychus minutus         ;Little Bittern (Little)         ;Ixobrychus minutus minutus        
+6591;issf;avibase-87168739;Gull-billed Tern          ;Gelochelidon nilotica      ;Gull-billed Tern (Gull-billed)  ;Gelochelidon nilotica [nilotica Gr
+31038;issf;avibase-876F7E82;Western Yellow Wagtail    ;Motacilla flava            ;Western Yellow Wagtail (flava)  ;Motacilla flava flava             
+27860;species;avibase-88BB4F2A;Eurasian Blackbird        ;Turdus merula              ;                                ;                                  
+24307;species;avibase-88F4B969;Willow Warbler            ;Phylloscopus trochilus     ;                                ;                                  
+22114;species;avibase-89FCE277;Temminck's Lark           ;Eremophila bilopha         ;                                ;                                  
+6980;species;avibase-8B879DFA;Great Shearwater          ;Ardenna gravis             ;                                ;                                  
+6511;spuh;avibase-8D04DAAF;gull sp.                  ;Larinae sp.                ;                                ;                                  
+7318;issf;avibase-8D6CB009;Purple Heron              ;Ardea purpurea             ;Purple Heron (Purple)           ;Ardea purpurea [purpurea Group]   
+716;species;avibase-8DB64266;Red-breasted Merganser    ;Mergus serrator            ;                                ;                                  
+7032;spuh;avibase-8E03D909;black-and-white shearwater;Puffinus sp. (black-and-whi;                                ;                                  
+6136;species;avibase-8E67DC5F;Wood Sandpiper            ;Tringa glareola            ;                                ;                                  
+29153;issf;avibase-8EC7846A;Northern Wheatear         ;Oenanthe oenanthe          ;Northern Wheatear (Eurasian)    ;Oenanthe oenanthe oenanthe/libanot
+8987;species;avibase-8F123A11;Short-eared Owl           ;Asio flammeus              ;                                ;                                  
+1830;species;avibase-8F269702;Great Crested Grebe       ;Podiceps cristatus         ;                                ;                                  
+5380;species;avibase-8F82FF8C;Eurasian Moorhen          ;Gallinula chloropus        ;                                ;                                  
+23129;spuh;avibase-8FB8FBF2;Hippolais sp.             ;Hippolais sp.              ;                                ;                                  
+2858;species;avibase-90194DA5;Crowned Sandgrouse        ;Pterocles coronatus        ;                                ;                                  
+24809;slash;avibase-905A5016;Moltoni's/Western/Eastern ;Curruca subalpina/iberiae/c;                                ;                                  
+450;species;avibase-90E2543E;Blue-winged Teal          ;Spatula discors            ;                                ;                                  
+5516;species;avibase-9106EBE6;Little Crake              ;Zapornia parva             ;                                ;                                  
+629;hybrid;avibase-914FC9FE;Common Pochard x Ferrugino;Aythya ferina x nyroca     ;                                ;                                  
+6082;species;avibase-9151E0BA;Common Snipe              ;Gallinago gallinago        ;                                ;                                  
+469;issf;avibase-9227AE60;Gadwall                   ;Mareca strepera            ;Gadwall (Common)                ;Mareca strepera strepera          
+19140;species;avibase-92A772BB;Eurasian Golden Oriole    ;Oriolus oriolus            ;                                ;                                  
+6387;slash;avibase-92C54736;Slender-billed/Black-heade;Chroicocephalus genei/ridib;                                ;                                  
+8919;species;avibase-939BB045;Maghreb Owl               ;Strix mauritanica          ;                                ;                                  
+2851;species;avibase-942BC618;Spotted Sandgrouse        ;Pterocles senegallus       ;                                ;                                  
+23564;species;avibase-94A1C447;Bank Swallow              ;Riparia riparia            ;                                ;                                  
+27232;species;avibase-94A44032;European Starling         ;Sturnus vulgaris           ;                                ;                                  
+9547;species;avibase-9505E03D;Common Kingfisher         ;Alcedo atthis              ;                                ;                                  
+24779;species;avibase-95E7E0E5;Western Orphean Warbler   ;Curruca hortensis          ;                                ;                                  
+4101;spuh;avibase-96B95C61;Apus sp.                  ;Apus sp.                   ;                                ;                                  
+20529;species;avibase-97166F72;Isabelline Shrike         ;Lanius isabellinus         ;                                ;                                  
+7575;species;avibase-97C47F3E;Black-winged Kite         ;Elanus caeruleus           ;                                ;                                  
+31930;species;avibase-9820CECA;Eurasian Siskin           ;Spinus spinus              ;                                ;                                  
+6033;species;avibase-9936FF4A;Little Stint              ;Calidris minuta            ;                                ;                                  
+11726;species;avibase-997A9437;Red-footed Falcon         ;Falco vespertinus          ;                                ;                                  
+22066;issf;avibase-99A10935;Horned Lark               ;Eremophila alpestris       ;Horned Lark (Atlas)             ;Eremophila alpestris atlas        
+5641;species;avibase-99B8841E;Common Crane              ;Grus grus                  ;                                ;                                  
+235;species;avibase-9A60617E;Fulvous Whistling-Duck    ;Dendrocygna bicolor        ;                                ;                                  
+5953;species;avibase-9A684C99;Bar-tailed Godwit         ;Limosa lapponica           ;                                ;                                  
+8819;species;avibase-9A7B268C;Little Owl                ;Athene noctua              ;                                ;                                  
+32031;species;avibase-9A87EBB0;Corn Bunting              ;Emberiza calandra          ;                                ;                                  
+32059;species;avibase-9AAB8C21;Cirl Bunting              ;Emberiza cirlus            ;                                ;                                  
+6451;issf;avibase-9AADBEC7;Yellow-legged Gull        ;Larus michahellis          ;Yellow-legged Gull (michahellis);Larus michahellis michahellis     
+21863;species;avibase-9ADB6BA5;Thick-billed Lark         ;Ramphocoris clotbey        ;                                ;                                  
+6048;spuh;avibase-9BCEC568;Calidris sp.              ;Calidris sp.               ;                                ;                                  
+31036;issf;avibase-9CAAD123;Western Yellow Wagtail    ;Motacilla flava            ;Western Yellow Wagtail (thunberg;Motacilla flava thunbergi         
+11729;species;avibase-9EA1F12D;Eleonora's Falcon         ;Falco eleonorae            ;                                ;                                  
+29239;species;avibase-9EE7BF1C;Mourning Wheatear         ;Oenanthe lugens            ;                                ;                                  
+8653;species;avibase-9FD4D3D9;Pharaoh Eagle-Owl         ;Bubo ascalaphus            ;                                ;                                  
+7531;species;avibase-A0A584C1;Eurasian Spoonbill        ;Platalea leucorodia        ;                                ;                                  
+29034;species;avibase-A0EDAEA2;Whinchat                  ;Saxicola rubetra           ;                                ;                                  
+11793;issf;avibase-A113792C;Peregrine Falcon          ;Falco peregrinus           ;Peregrine Falcon (Barbary)      ;Falco peregrinus pelegrinoides    
+6146;spuh;avibase-A16D5321;Scolopacidae sp.          ;Scolopacidae sp.           ;                                ;                                  
+11810;spuh;avibase-A28F0D10;falcon sp.                ;Falco sp.                  ;                                ;                                  
+10030;spuh;avibase-A2E4F761;bee-eater sp.             ;Merops sp.                 ;                                ;                                  
+5875;spuh;avibase-A40CC76C;small plover sp.          ;Charadrius sp.             ;                                ;                                  
+6490;species;avibase-A59FA446;Glaucous Gull             ;Larus hyperboreus          ;                                ;                                  
+24722;species;avibase-A6A4FC63;Garden Warbler            ;Sylvia borin               ;                                ;                                  
+23115;species;avibase-A7275096;Western Olivaceous Warbler;Iduna opaca                ;                                ;                                  
+6679;spuh;avibase-A744B03C;tern sp.                  ;Sterninae sp.              ;                                ;                                  
+11664;issf;avibase-A76838A0;Eurasian Kestrel          ;Falco tinnunculus          ;Eurasian Kestrel (Eurasian)     ;Falco tinnunculus [tinnunculus Gro
+30832;species;avibase-A783468F;Alpine Accentor           ;Prunella collaris          ;                                ;                                  
+22306;slash;avibase-A79D06E6;Thekla's/Crested Lark     ;Galerida theklae/cristata  ;                                ;                                  
+6118;species;avibase-A7B17EFC;Green Sandpiper           ;Tringa ochropus            ;                                ;                                  
+27854;species;avibase-A8A85BCF;Redwing                   ;Turdus iliacus             ;                                ;                                  
+27835;species;avibase-A95B43F1;Mistle Thrush             ;Turdus viscivorus          ;                                ;                                  
+620;species;avibase-A96692E0;Common Pochard            ;Aythya ferina              ;                                ;                                  
+21869;species;avibase-A977348D;Desert Lark               ;Ammomanes deserti          ;                                ;                                  
+29188;species;avibase-A9ADB78D;Red-rumped Wheatear       ;Oenanthe moesta            ;                                ;                                  
+5823;species;avibase-AA4385A2;Kentish Plover            ;Charadrius alexandrinus    ;                                ;                                  
+24325;slash;avibase-AABFC5F5;Willow Warbler/Common Chif;Phylloscopus trochilus/coll;                                ;                                  
+7371;issf;avibase-AB1CB216;Cattle Egret              ;Bubulcus ibis              ;Cattle Egret (Western)          ;Bubulcus ibis ibis                
+3407;spuh;avibase-AB8A3029;cuckoo sp. (Cuculidae sp.);Cuculidae sp.              ;                                ;                                  
+6040;species;avibase-ACC99F35;Pectoral Sandpiper        ;Calidris melanotos         ;                                ;                                  
+3636;slash;avibase-AD455318;Red-necked/Eurasian Nightj;Caprimulgus ruficollis/euro;                                ;                                  
+20597;issf;avibase-AD5D8944;Great Gray Shrike         ;Lanius excubitor           ;Great Gray Shrike (Sahara)      ;Lanius excubitor [elegans Group]  
+23116;slash;avibase-AD64B07F;Eastern/Western Olivaceous;Iduna pallida/opaca        ;                                ;                                  
+31272;spuh;avibase-AD6E9B95;pipit sp.                 ;Anthus sp.                 ;                                ;                                  
+24003;issf;avibase-ADC1F0C9;Common Bulbul             ;Pycnonotus barbatus        ;Common Bulbul (Common)          ;Pycnonotus barbatus [barbatus Grou
+31028;species;avibase-AE073221;Gray Wagtail              ;Motacilla cinerea          ;                                ;                                  
+29152;issf;avibase-AE947F55;Northern Wheatear         ;Oenanthe oenanthe          ;Northern Wheatear (Greenland)   ;Oenanthe oenanthe leucorhoa       
+23006;species;avibase-AEE2063F;Zitting Cisticola         ;Cisticola juncidis         ;                                ;                                  
+7880;slash;avibase-AEEF72BC;Pallid/Montagu's Harrier  ;Circus macrourus/pygargus  ;                                ;                                  
+35133;spuh;avibase-AF0D818A;bird sp.                  ;Aves sp.                   ;                                ;                                  
+26675;species;avibase-AF700208;Eurasian Wren             ;Troglodytes troglodytes    ;                                ;                                  
+28777;species;avibase-AFD6FD81;Bluethroat                ;Luscinia svecica           ;                                ;                                  
+1774;species;avibase-B06A9079;Lesser Flamingo           ;Phoeniconaias minor        ;                                ;                                  
+24799;species;avibase-B0D09483;Sardinian Warbler         ;Curruca melanocephala      ;                                ;                                  
+27245;species;avibase-B0D81671;Spotless Starling         ;Sturnus unicolor           ;                                ;                                  
+24805;species;avibase-B13D68B1;Eastern Subalpine Warbler ;Curruca cantillans         ;                                ;                                  
+28197;issf;avibase-B142856F;Spotted Flycatcher        ;Muscicapa striata          ;Spotted Flycatcher (Spotted)    ;Muscicapa striata [striata Group] 
+31994;spuh;avibase-B20C6C46;finch sp.                 ;Fringillidae sp.           ;                                ;                                  
+7515;species;avibase-B20FECE2;Northern Bald Ibis        ;Geronticus eremita         ;                                ;                                  
+23183;species;avibase-B283E332;Great Reed Warbler        ;Acrocephalus arundinaceus  ;                                ;                                  
+21815;issf;avibase-B2A324BF;Greater Hoopoe-Lark       ;Alaemon alaudipes          ;Greater Hoopoe-Lark (Mainland)  ;Alaemon alaudipes [alaudipes Group
+2070;species;avibase-B2D6AB06;Laughing Dove             ;Spilopelia senegalensis    ;                                ;                                  
+10696;species;avibase-B2E6AB9F;Eurasian Wryneck          ;Jynx torquilla             ;                                ;                                  
+31603;species;avibase-B345F82B;Crimson-winged Finch      ;Rhodopechys sanguineus     ;                                ;                                  
+7167;issf;avibase-B38FDD3E;Great Cormorant           ;Phalacrocorax carbo        ;Great Cormorant (White-breasted);Phalacrocorax carbo lucidus       
+3396;species;avibase-B3D2C3C5;Common Cuckoo             ;Cuculus canorus            ;                                ;                                  
+30950;species;avibase-B4037E8F;Desert Sparrow            ;Passer simplex             ;                                ;                                  
+7160;form;avibase-B57FBCFE;Great Cormorant           ;Phalacrocorax carbo        ;Great Cormorant (Dark-breasted) ;Phalacrocorax carbo carbo/sinensis
+5985;species;avibase-B5CE8FAD;Red Knot                  ;Calidris canutus           ;                                ;                                  
+5405;species;avibase-B682B2A9;Eurasian Coot             ;Fulica atra                ;                                ;                                  
+5438;species;avibase-B6838E0C;Western Swamphen          ;Porphyrio porphyrio        ;                                ;                                  
+23576;spuh;avibase-B687ACB6;Riparia sp.               ;Riparia sp.                ;                                ;                                  
+28337;species;avibase-B68BD0D2;Rufous-tailed Scrub-Robin ;Cercotrichas galactotes    ;                                ;                                  
+8286;issf;avibase-B725BDE4;Long-legged Buzzard       ;Buteo rufinus              ;Long-legged Buzzard (Atlas)     ;Buteo rufinus cirtensis           
+24330;slash;avibase-B78765A2;Willow Warbler/Common Chif;Phylloscopus trochilus/coll;                                ;                                  
+21121;species;avibase-B9B272F4;Common Raven              ;Corvus corax               ;                                ;                                  
+23110;species;avibase-BAE527A2;Eastern Olivaceous Warbler;Iduna pallida              ;                                ;                                  
+8968;issf;avibase-BAF2C71C;Long-eared Owl            ;Asio otus                  ;Long-eared Owl (Eurasian)       ;Asio otus otus/canariensis        
+6266;species;avibase-BB041C6E;Great Skua                ;Stercorarius skua          ;                                ;                                  
+26319;issf;avibase-BB8E23AC;Eurasian Nuthatch         ;Sitta europaea             ;Eurasian Nuthatch (Western)     ;Sitta europaea [europaea Group]   
+1856;species;avibase-BBA263C2;Rock Pigeon               ;Columba livia              ;                                ;                                  
+6598;species;avibase-BC06BC0D;Caspian Tern              ;Hydroprogne caspia         ;                                ;                                  
+23280;species;avibase-BC0E4C9F;Common Grasshopper Warbler;Locustella naevia          ;                                ;                                  
+24270;species;avibase-BC391A83;Hume's Warbler            ;Phylloscopus humei         ;                                ;                                  
+7166;issf;avibase-BC4B170B;Great Cormorant           ;Phalacrocorax carbo        ;Great Cormorant (Moroccan)      ;Phalacrocorax carbo maroccanus    
+563;species;avibase-BC6C3CCE;Green-winged Teal         ;Anas crecca                ;                                ;                                  
+22190;slash;avibase-BDBC39C0;Greater Short-toed Lark/Al;Calandrella brachydactyla/A;                                ;                                  
+22149;species;avibase-BDC24A8A;Calandra Lark             ;Melanocorypha calandra     ;                                ;                                  
+6630;species;avibase-BDC5CF80;Arctic Tern               ;Sterna paradisaea          ;                                ;                                  
+21621;species;avibase-BE2B80F4;African Blue Tit          ;Cyanistes teneriffae       ;                                ;                                  
+11662;species;avibase-BECA271F;Lesser Kestrel            ;Falco naumanni             ;                                ;                                  
+6057;species;avibase-BFE14290;Eurasian Woodcock         ;Scolopax rusticola         ;                                ;                                  
+24815;species;avibase-BFECF5F8;Spectacled Warbler        ;Curruca conspicillata      ;                                ;                                  
+24259;species;avibase-C00674ED;Western Bonelli's Warbler ;Phylloscopus bonelli       ;                                ;                                  
+5950;slash;avibase-C06D1FF2;Whimbrel/Eurasian Curlew  ;Numenius phaeopus/arquata  ;                                ;                                  
+31037;form;avibase-C0876FE9;Western Yellow Wagtail    ;Motacilla flava            ;Western Yellow Wagtail (flava/be;Motacilla flava flava/beema       
+32132;species;avibase-C0B97874;Reed Bunting              ;Emberiza schoeniclus       ;                                ;                                  
+27246;slash;avibase-C0D02034;European/Spotless Starling;Sturnus vulgaris/unicolor  ;                                ;                                  
+8087;issf;avibase-C1C255AA;Black Kite                ;Milvus migrans             ;Black Kite (Black)              ;Milvus migrans [migrans Group]    
+468;species;avibase-C235A4D7;Gadwall                   ;Mareca strepera            ;                                ;                                  
+7881;spuh;avibase-C235C72D;harrier sp.               ;Circus sp.                 ;                                ;                                  
+8287;hybrid;avibase-C2CEF2A6;Common x Long-legged Buzza;Buteo buteo x rufinus      ;                                ;                                  
+31908;species;avibase-C3227709;European Serin            ;Serinus serinus            ;                                ;                                  
+6833;species;avibase-C5FB15C6;Leach's Storm-Petrel      ;Hydrobates leucorhous      ;                                ;                                  
+5703;species;avibase-C73ED2F5;Pied Avocet               ;Recurvirostra avosetta     ;                                ;                                  
+32114;species;avibase-C7C1A6EB;House Bunting             ;Emberiza sahari            ;                                ;                                  
+5663;species;avibase-C7DB323E;Eurasian Thick-knee       ;Burhinus oedicnemus        ;                                ;                                  
+28624;species;avibase-C809B2B9;European Robin            ;Erithacus rubecula         ;                                ;                                  
+8078;spuh;avibase-CA08045E;Accipiter sp.             ;Accipiter sp.              ;                                ;                                  
+6974;issf;avibase-CA4D268D;Cory's Shearwater         ;Calonectris diomedea       ;Cory's Shearwater (Scopoli's)   ;Calonectris diomedea diomedea     
+29225;species;avibase-CAFA98EE;White-crowned Wheatear    ;Oenanthe leucopyga         ;                                ;                                  
+1659;species;avibase-CAFE345D;Common Quail              ;Coturnix coturnix          ;                                ;                                  
+6054;species;avibase-CB343E43;Long-billed Dowitcher     ;Limnodromus scolopaceus    ;                                ;                                  
+29171;species;avibase-CBB94183;Western Black-eared Wheate;Oenanthe hispanica         ;                                ;                                  
+8284;species;avibase-CC65921F;Long-legged Buzzard       ;Buteo rufinus              ;                                ;                                  
+28933;species;avibase-CD1B2156;Atlas Flycatcher          ;Ficedula speculigera       ;                                ;                                  
+3730;spuh;avibase-CDC724FD;nightjar sp.              ;Caprimulgidae sp.          ;                                ;                                  
+28149;species;avibase-CE71B4FF;Ring Ouzel                ;Turdus torquatus           ;                                ;                                  
+7375;species;avibase-CE73EBD7;Squacco Heron             ;Ardeola ralloides          ;                                ;                                  
+7182;species;avibase-CECC7B26;European Shag             ;Gulosus aristotelis        ;                                ;                                  
+28968;spuh;avibase-CF292C9B;Ficedula sp.              ;Ficedula sp.               ;                                ;                                  
+6673;species;avibase-CF8461BF;West African Crested Tern ;Thalasseus albididorsalis  ;                                ;                                  
+5713;issf;avibase-CFA73CC2;Eurasian Oystercatcher    ;Haematopus ostralegus      ;Eurasian Oystercatcher (Western);Haematopus ostralegus ostralegus/l
+35132;spuh;avibase-CFD25837;passerine sp.             ;Passeriformes sp.          ;                                ;                                  
+6668;species;avibase-D01CDECD;Lesser Crested Tern       ;Thalasseus bengalensis     ;                                ;                                  
+20857;issf;avibase-D142BFD7;Eurasian Jay              ;Garrulus glandarius        ;Eurasian Jay (Black-crowned)    ;Garrulus glandarius [cervicalis Gr
+12219;species;avibase-D17D101A;Budgerigar                ;Melopsittacus undulatus    ;                                ;                                  
+24789;species;avibase-D1EF4402;Tristram's Warbler        ;Curruca deserticola        ;                                ;                                  
+4082;species;avibase-D209A90C;Little Swift              ;Apus affinis               ;                                ;                                  
+23552;issf;avibase-D2854489;Plain Martin              ;Riparia paludicola         ;Plain Martin (African)          ;Riparia paludicola [paludicola Gro
+6794;species;avibase-D295D249;Wilson's Storm-Petrel     ;Oceanites oceanicus        ;                                ;                                  
+6844;species;avibase-D3FAE385;Band-rumped Storm-Petrel  ;Hydrobates castro          ;                                ;                                  
+2831;spuh;avibase-D3FDB845;pigeon/dove sp.           ;Columbidae sp.             ;                                ;                                  
+1670;species;avibase-D44B2846;Barbary Partridge         ;Alectoris barbara          ;                                ;                                  
+7479;species;avibase-D4540F88;Glossy Ibis               ;Plegadis falcinellus       ;                                ;                                  
+21010;species;avibase-D4C32F8E;Eurasian Jackdaw          ;Corvus monedula            ;                                ;                                  
+6249;species;avibase-D56ABB4E;Collared Pratincole       ;Glareola pratincola        ;                                ;                                  
+28988;issf;avibase-D58EA23C;Black Redstart            ;Phoenicurus ochruros       ;Black Redstart (Western)        ;Phoenicurus ochruros gibraltariens
+24787;species;avibase-D5AEADF4;African Desert Warbler    ;Curruca deserti            ;                                ;                                  
+6137;species;avibase-D6BFC73A;Common Redshank           ;Tringa totanus             ;                                ;                                  
+11037;issf;avibase-D6D9E765;Great Spotted Woodpecker  ;Dendrocopos major          ;Great Spotted Woodpecker (Atlas);Dendrocopos major numidus/mauritan
+6464;issf;avibase-D7148946;Iceland Gull              ;Larus glaucoides           ;Iceland Gull (glaucoides)       ;Larus glaucoides glaucoides       
+11033;species;avibase-D754DB85;Great Spotted Woodpecker  ;Dendrocopos major          ;                                ;                                  
+738;spuh;avibase-D7BF5045;duck sp.                  ;Anatidae (duck sp.)        ;                                ;                                  
+1741;species;avibase-D8267ADE;Double-spurred Spurfowl   ;Pternistis bicalcaratus    ;                                ;                                  
+20835;species;avibase-D8D10F2C;Eurasian Jay              ;Garrulus glandarius        ;                                ;                                  
+8820;issf;avibase-D905B20D;Little Owl                ;Athene noctua              ;Little Owl (Little)             ;Athene noctua [noctua Group]      
+7374;spuh;avibase-D916AABA;white egret sp.           ;Ardea/Egretta/Bubulcus sp. ;                                ;                                  
+27839;species;avibase-D929EB21;Song Thrush               ;Turdus philomelos          ;                                ;                                  
+20592;species;avibase-DB2501EE;Great Gray Shrike         ;Lanius excubitor           ;                                ;                                  
+8020;species;avibase-DB376A66;Eurasian Sparrowhawk      ;Accipiter nisus            ;                                ;                                  
+4052;slash;avibase-DBACF9F8;Common/Pallid Swift       ;Apus apus/pallidus         ;                                ;                                  
+31220;slash;avibase-DBDDA747;Meadow/Water Pipit        ;Anthus pratensis/spinoletta;                                ;                                  
+5976;species;avibase-DC3050A9;Ruddy Turnstone           ;Arenaria interpres         ;                                ;                                  
+6472;issf;avibase-DC679FC7;Lesser Black-backed Gull  ;Larus fuscus               ;Lesser Black-backed Gull (graell;Larus fuscus graellsii            
+23126;species;avibase-DCDD1BCA;Melodious Warbler         ;Hippolais polyglotta       ;                                ;                                  
+6217;species;avibase-DE0A72A7;Cream-colored Courser     ;Cursorius cursor           ;                                ;                                  
+5224;species;avibase-DE1D2DF4;Water Rail                ;Rallus aquaticus           ;                                ;                                  
+7344;species;avibase-DF32B1F9;Western Reef-Heron        ;Egretta gularis            ;                                ;                                  
+29151;species;avibase-DF526047;Northern Wheatear         ;Oenanthe oenanthe          ;                                ;                                  
+5954;issf;avibase-E0093565;Bar-tailed Godwit         ;Limosa lapponica           ;Bar-tailed Godwit (European)    ;Limosa lapponica [lapponica Group]
+6449;species;avibase-E074D706;Yellow-legged Gull        ;Larus michahellis          ;                                ;                                  
+23133;species;avibase-E1559C49;Moustached Warbler        ;Acrocephalus melanopogon   ;                                ;                                  
+21672;species;avibase-E15BC0CB;Great Tit                 ;Parus major                ;                                ;                                  
+6826;species;avibase-E1638A37;European Storm-Petrel     ;Hydrobates pelagicus       ;                                ;                                  
+31315;species;avibase-E16B2C03;Brambling                 ;Fringilla montifringilla   ;                                ;                                  
+7053;species;avibase-E2817DAE;Black Stork               ;Ciconia nigra              ;                                ;                                  
+7857;species;avibase-E2A19474;Eurasian Marsh-Harrier    ;Circus aeruginosus         ;                                ;                                  
+8263;issf;avibase-E34D8FF3;Common Buzzard            ;Buteo buteo                ;Common Buzzard (Western)        ;Buteo buteo buteo                 
+6016;issf;avibase-E3D21BA1;Dunlin                    ;Calidris alpina            ;Dunlin (schinzii)               ;Calidris alpina schinzii          
+6601;issf;avibase-E3F37B3A;Black Tern                ;Chlidonias niger           ;Black Tern (Eurasian)           ;Chlidonias niger niger            
+28338;issf;avibase-E4672C85;Rufous-tailed Scrub-Robin ;Cercotrichas galactotes    ;Rufous-tailed Scrub-Robin (Rufou;Cercotrichas galactotes [galactote
+23729;species;avibase-E4BB82F5;Common House-Martin       ;Delichon urbicum           ;                                ;                                  
+6503;species;avibase-E6536E4E;Kelp Gull                 ;Larus dominicanus          ;                                ;                                  
+29164;species;avibase-E6C6F746;Isabelline Wheatear       ;Oenanthe isabellina        ;                                ;                                  
+24825;spuh;avibase-E6F5DF1B;Sylvia/Curruca sp.        ;Sylvia/Curruca sp.         ;                                ;                                  
+22161;species;avibase-E75ECF62;Dunn's Lark               ;Eremalauda dunni           ;                                ;                                  
+6499;species;avibase-E826E9F3;Great Black-backed Gull   ;Larus marinus              ;                                ;                                  
+1857;form;avibase-E8574CAB;Rock Pigeon               ;Columba livia              ;Rock Pigeon (Wild type)         ;Columba livia (Wild type)         
+30907;hybrid;avibase-E8B4B391;House x Spanish Sparrow (h;Passer domesticus x hispani;                                ;                                  
+31042;issf;avibase-E8B6C2D9;Western Yellow Wagtail    ;Motacilla flava            ;Western Yellow Wagtail (cinereoc;Motacilla flava cinereocapilla    
+6510;spuh;avibase-E8FAD0BB;Larus sp.                 ;Larus sp.                  ;                                ;                                  
+11742;species;avibase-E91E287A;Eurasian Hobby            ;Falco subbuteo             ;                                ;                                  
+8297;spuh;avibase-E91E7830;Buteo sp.                 ;Buteo sp.                  ;                                ;                                  
+11788;issf;avibase-E9566F8E;Peregrine Falcon          ;Falco peregrinus           ;Peregrine Falcon (Eurasian)     ;Falco peregrinus [peregrinus Group
+6805;species;avibase-E9DF118E;White-faced Storm-Petrel  ;Pelagodroma marina         ;                                ;                                  
+31604;issf;avibase-EAF23C54;Crimson-winged Finch      ;Rhodopechys sanguineus     ;Crimson-winged Finch (African)  ;Rhodopechys sanguineus alienus    
+22216;species;avibase-ED2AC04E;Eurasian Skylark          ;Alauda arvensis            ;                                ;                                  
+464;species;avibase-ED4CE8E7;Northern Shoveler         ;Spatula clypeata           ;                                ;                                  
+7608;species;avibase-ED5A7E8F;European Honey-buzzard    ;Pernis apivorus            ;                                ;                                  
+5712;species;avibase-ED663165;Eurasian Oystercatcher    ;Haematopus ostralegus      ;                                ;                                  
+5840;species;avibase-EDA37B7C;Common Ringed Plover      ;Charadrius hiaticula       ;                                ;                                  
+28196;species;avibase-EE8206E7;Spotted Flycatcher        ;Muscicapa striata          ;                                ;                                  
+11605;spuh;avibase-EF4617E8;woodpecker sp.            ;Picidae sp.                ;                                ;                                  
+6863;spuh;avibase-EFEB41C1;storm-petrel sp. (white-ru;Oceanitidae/Hydrobatidae sp;                                ;                                  
+21131;spuh;avibase-F00CC288;crow/raven sp.            ;Corvus sp.                 ;                                ;                                  
+5749;species;avibase-F029489A;Northern Lapwing          ;Vanellus vanellus          ;                                ;                                  
+6624;issf;avibase-F0DF132B;Common Tern               ;Sterna hirundo             ;Common Tern (hirundo/tibetana)  ;Sterna hirundo hirundo/tibetana   
+23007;issf;avibase-F10D566F;Zitting Cisticola         ;Cisticola juncidis         ;Zitting Cisticola (Western)     ;Cisticola juncidis [juncidis Group
+21115;species;avibase-F2024545;Brown-necked Raven        ;Corvus ruficollis          ;                                ;                                  
+7340;species;avibase-F2858F9F;Little Egret              ;Egretta garzetta           ;                                ;                                  
+5824;issf;avibase-F3AB8E78;Kentish Plover            ;Charadrius alexandrinus    ;Kentish Plover (Kentish)        ;Charadrius alexandrinus alexandrin
+11731;species;avibase-F3DA111C;Merlin                    ;Falco columbarius          ;                                ;                                  
+24559;species;avibase-F3E9CE95;Cetti's Warbler           ;Cettia cetti               ;                                ;                                  
+9313;issf;avibase-F4D0DB8E;Eurasian Hoopoe           ;Upupa epops                ;Eurasian Hoopoe (Eurasian)      ;Upupa epops [epops Group]         
+6420;issf;avibase-F4D98B48;Common Gull               ;Larus canus                ;Common Gull (European)          ;Larus canus canus                 
+7872;species;avibase-F558C7F9;Hen Harrier               ;Circus cyaneus             ;                                ;                                  
+444;species;avibase-F577BA0F;Garganey                  ;Spatula querquedula        ;                                ;                                  
+23657;species;avibase-F72A871F;Red-rumped Swallow        ;Cecropis daurica           ;                                ;                                  
+6660;species;avibase-F7504353;Sandwich Tern             ;Thalasseus sandvicensis    ;                                ;                                  
+6411;species;avibase-F7B9355E;Audouin's Gull            ;Ichthyaetus audouinii      ;                                ;                                  
+4143;spuh;avibase-F7D77F4A;swift sp.                 ;Apodidae sp.               ;                                ;                                  
+1934;spuh;avibase-F837F893;Columba sp.               ;Columba sp.                ;                                ;                                  
+30983;species;avibase-F8748F12;Rock Sparrow              ;Petronia petronia          ;                                ;                                  
+6392;species;avibase-F89FD6E3;Little Gull               ;Hydrocoloeus minutus       ;                                ;                                  
+31085;spuh;avibase-F8FCE84A;wagtail sp.               ;Motacilla sp.              ;                                ;                                  
+5931;species;avibase-F9305BAA;Whimbrel                  ;Numenius phaeopus          ;                                ;                                  
+23611;issf;avibase-F93910B4;Barn Swallow              ;Hirundo rustica            ;Barn Swallow (White-bellied)    ;Hirundo rustica rustica           
+24317;species;avibase-F9F4B04D;Common Chiffchaff         ;Phylloscopus collybita     ;                                ;                                  
+4024;species;avibase-FA1CAD29;Alpine Swift              ;Apus melba                 ;                                ;                                  
+9312;species;avibase-FA2F9125;Eurasian Hoopoe           ;Upupa epops                ;                                ;                                  
+4099;species;avibase-FA9F6019;White-rumped Swift        ;Apus caffer                ;                                ;                                  
+6386;species;avibase-FB02DD96;Black-headed Gull         ;Chroicocephalus ridibundus ;                                ;                                  
+6355;species;avibase-FB4D08F0;Black-legged Kittiwake    ;Rissa tridactyla           ;                                ;                                  
+6460;species;avibase-FB4FCB27;Iceland Gull              ;Larus glaucoides           ;                                ;                                  
+22065;species;avibase-FC0A1D95;Horned Lark               ;Eremophila alpestris       ;                                ;                                  
+8964;species;avibase-FC4D40D2;Long-eared Owl            ;Asio otus                  ;                                ;                                  
+22267;issf;avibase-FC79EB47;Crested Lark              ;Galerida cristata          ;Crested Lark (Crested)          ;Galerida cristata [cristata Group]
+24517;species;avibase-FCF07F05;Scrub Warbler             ;Scotocerca inquieta        ;                                ;                                  
+6994;species;avibase-FD97EC1E;Yelkouan Shearwater       ;Puffinus yelkouan          ;                                ;                                  
+11886;species;avibase-FDAEA60A;Cockatiel                 ;Nymphicus hollandicus      ;                                ;                                  
+7324;issf;avibase-FDCCFEC1;Great Egret               ;Ardea alba                 ;Great Egret (Eurasian)          ;Ardea alba alba                   
+27072;species;avibase-FDECE3B9;White-throated Dipper     ;Cinclus cinclus            ;                                ;                                  
+22175;species;avibase-FE1FE185;Mediterranean Short-toed L;Alaudala rufescens         ;                                ;                                  
+7566;issf;avibase-FE572264;Osprey                    ;Pandion haliaetus          ;Osprey (haliaetus)              ;Pandion haliaetus haliaetus       
+6281;slash;avibase-FED0179E;Parasitic/Long-tailed Jaeg;Stercorarius parasiticus/lo;                                ;                                  
+23137;species;avibase-FED5AED5;Sedge Warbler             ;Acrocephalus schoenobaenus ;                                ;                                  
+8336;species;avibase-FEE35F4C;Barn Owl                  ;Tyto alba                  ;                                ;                                  
+6973;species;avibase-FF3D837A;Cory's Shearwater         ;Calonectris diomedea       ;                                ;                                  
+292;issf;avibase-FF504551;Brant                     ;Branta bernicla            ;Brant (Dark-bellied)            ;Branta bernicla bernicla          
